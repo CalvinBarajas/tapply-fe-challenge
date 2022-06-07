@@ -164,5 +164,6 @@
 }
 /* adjusts space between "we love" and "please select" */
 .weLove {
+  color: white;
   margin-bottom: -10px;
 }
